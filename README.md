@@ -1,7 +1,6 @@
 # Nodejs_Authentication_System
 
-This project is going to authenticate you how you are secure in today's world of internet 
-MVC architecture and Technologies used ------>
+##### This project is going to authenticate you how you are secure in today's world of internet MVC architecture and Technologies used ------>
       ROOT_FOLDER===models----> Mongodb [SCHEMA SETUP]
                |
                 ==== Views-----> EJS ---> for front-end
@@ -19,11 +18,11 @@ MVC architecture and Technologies used ------>
                =========index.js ------> just for triggring the start server method of server.js
                |
                =========server.js-------> method for start server and importing diffent libraries which supports to run my app
-   **Start Project in your Locals**
-                |
-                -------> 1. **First you need to setup your environment variables**
-                         2. **Pass command---npm install**
-                         3. **pass command---npm start**
+  ### **Start Project in your Locals**
+      
+                ### -------> 1. **First you need to setup your environment variables**
+                   ###      2. **Pass command---npm install**
+                      ###   3. **pass command---npm start**
                          
    
    ###  **hosted_url**:-------https://auth2yourself.onrender.com
