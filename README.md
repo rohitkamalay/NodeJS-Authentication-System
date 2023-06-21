@@ -20,9 +20,9 @@
                =========server.js-------> method for start server and importing diffent libraries which supports to run my app
   ### Start Project in your Locals
       
-                ###  1. First you need to setup your environment variables
-                   ###      2. Pass command---npm install
-                      ###   3. pass command---npm start
+                ### 1. First you need to setup your environment variables
+                   ### 2. Pass command---npm install
+                      ### 3. pass command---npm start
                          
    
    ###  **hosted_url**:-------https://auth2yourself.onrender.com
