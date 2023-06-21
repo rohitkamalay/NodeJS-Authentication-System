@@ -3,6 +3,7 @@
 ##### This project is going to authenticate you how you are secure in today's world of internet MVC architecture and Technologies used 
 
       ROOT_FOLDER===models----> Mongodb [SCHEMA SETUP]
+      
                |
                 ==== Views-----> EJS ---> for front-end
                |
@@ -11,8 +12,8 @@
                =======routers-------> it calls related controllers via specified path when button clicked
                |
                =======mailers--------> it used to send mails to the user when he/she wants to reset theirs password
-               |         |
-               |      By using nodemailer-library
+               |         
+                     By using nodemailer-library
                |
                ========config--------> for accessing third party apps likes- google oauth, passport, passport-locals etc.
                |
