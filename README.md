@@ -1,6 +1,7 @@
 # Nodejs_Authentication_System
 
-##### This project is going to authenticate you how you are secure in today's world of internet MVC architecture and Technologies used ------>
+##### This project is going to authenticate you how you are secure in today's world of internet MVC architecture and Technologies used 
+
       ROOT_FOLDER===models----> Mongodb [SCHEMA SETUP]
                |
                 ==== Views-----> EJS ---> for front-end
