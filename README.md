@@ -1,4 +1,4 @@
-# nodejs_auth_system
+# Nodejs_Authentication_System
 
 This project is going to authenticate you how you are secure in today's world of internet 
 MVC architecture and Technologies used ------>
@@ -25,11 +25,6 @@ MVC architecture and Technologies used ------>
                          2. **Pass command---npm install**
                          3. **pass command---npm start**
                          
-    **when deploying my app on render.com facing some issues---->**
-          |
-          ------>when i log-in via google or sign-up it shows #Invalid_user 401 error while it runs perfectaly in my locals
-                        |
-                        for this i have again configure my client_id, client_secret on console.developers.google.com and sets new still
-                           error not gone
-     **hosted_url**:-------https://auth2yourself.onrender.com
+   
+   ###  **hosted_url**:-------https://auth2yourself.onrender.com
               
